@@ -14,3 +14,30 @@ Ky nang:
 1. Su dung Git và GitHub co ban
 2. Lap trinh Java
 3. Lam viec nhom
+K? ho?ch h?c t?p:
+1. On t?p ki?n th?c Git nâng cao.
+2. H?c thêm v? Java Spring Boot.
+3. Rèn luy?n gi?i thu?t và c?u trúc d? li?u hàng ngày.
+4. Tham gia làm d? án nhóm d? tích luy kinh nghi?m th?c t?.
+5. Xây d?ng s?n ph?m cá nhân d? rèn k? nang t? h?c.
+
+Ke hoach hoc tap:
+1. On tap kien thuc Git nang cao.
+2. Hoc them ve Java Spring Boot.
+3. Ren luyen giai thuat va cau truc du lieu hang ngay.
+4. Tham gia lam du an nhom de tich luy kinh nghiem thuc te.
+5. Xay dung san pham ca nhan đe ren ky nang tu hoc.
+
+Ke hoach hoc tap:
+1. On tap kien thuc Git nang cao.
+2. Hoc them ve Java Spring Boot.
+3. Ren luyen giai thuat va cau truc du lieu hang ngay.
+4. Tham gia lam du an nhom de tich luy kinh nghiem thuc te.
+5. Xay dung san pham ca nhan đe ren ky nang tu hoc.
+
+Ke hoach hoc tap:
+1. On tap kien thuc Git nang cao.
+2. Hoc them ve Java Spring Boot.
+3. Ren luyen giai thuat va cau truc du lieu hang ngay.
+4. Tham gia lam du an nhom de tich luy kinh nghiem thuc te.
+5. Xay dung san pham ca nhan đe ren ky nang tu hoc.
