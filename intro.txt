@@ -14,3 +14,10 @@ Ky nang:
 1. Su dung Git và GitHub co ban
 2. Lap trinh Java
 3. Lam viec nhom
+
+Ke hoach hoc tap:
+1. On tap kien thuc Git nang cao.
+2. Hoc them ve Java Spring Boot.
+3. Ren luyen giai thuat va cau truc du lieu hang ngay.
+4. Tham gia lam du an nhom de tich luy kinh nghiem thuc te.
+5. Xay dung san pham ca nhan đe ren ky nang tu hoc.
